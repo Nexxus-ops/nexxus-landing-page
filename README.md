@@ -14,8 +14,6 @@
 
 Esta es la página de presentación (Landing Page) oficial de **CeTe**, una plataforma SaaS B2B desarrollada por el equipo **Nexxus**. Su propósito principal es comunicar la propuesta de valor comercial, presentar las funcionalidades y la propuesta de suscripción, y servir como puerta de enlace directa hacia la aplicación web principal.
 
-La versión de AV2 incorpora internacionalización, recursos de información funcionales y una captura real del producto.
-
 **Sitio publicado:** [CeTe - Landing Page](https://cete-landing-av2.onrender.com/).
 
 ## Características Principales
